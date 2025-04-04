@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Mi Blog Sencillo</title>
+    <link>https://daviidhuertaas.github.io/rss/</link>
+    <description>Blog sencillo con RSS</description>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 04 Apr 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Artículo 3</title>
+      <link>https://daviidhuertaas.github.io/rss/</link>
+      <description>Maecenas fermentum consequat mi. Donec fermentum.</description>
+      <pubDate>Thu, 03 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Artículo 2</title>
+      <link>https://daviidhuertaas.github.io/rss/</link>
+      <description>Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante.</description>
+      <pubDate>Wed, 02 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Artículo 1</title>
+      <link>https://daviidhuertaas.github.io/rss/</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</description>
+      <pubDate>Tue, 01 Apr 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
